@@ -1,3 +1,5 @@
+import sys
+sys.setrecursionlimit(1000000)
 class swapsort:
 
     def bubblesort(self,data):
@@ -35,6 +37,9 @@ class swapsort:
                 j-=1
         return i
 
+tt=swapsort()
+a=list(range(0,1997,2))
+tt.quicksort(0,len(a)-1,a)
 
 
 
