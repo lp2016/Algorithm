@@ -1,7 +1,6 @@
 def binSearch(low,high,key,data):
     if low == high:
         return -1
-
     mid=int((low+high)/2)
     if key == data[mid]:
         return mid
