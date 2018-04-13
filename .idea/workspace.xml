@@ -2,14 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2cdd861f-b460-43ec-b99c-04b35a746a93" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode_largestNumber.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode_largestNumber_quicksort.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/newcode_CreateStack.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/newcode_IsPopOrder.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/newcode_MoreThanHalfNum_Solution.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/newcode_Permutation.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/newcode_PrintFromTopToBottom.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/newcode_PrintMinNumber.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -211,7 +203,7 @@
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="sshConsole" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/LGH/Desktop/Algorithm/Algorithm/test.py" />
   </component>
   <component name="RunDashboard">
@@ -422,7 +414,14 @@
       <option name="project" value="LOCAL" />
       <updated>1522801961842</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="add new py">
+      <created>1523616830353</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1523616830353</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
