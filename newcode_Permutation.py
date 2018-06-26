@@ -31,4 +31,4 @@ class Solution:
 
 
 
-
+print(Solution().Permutation("abc"))

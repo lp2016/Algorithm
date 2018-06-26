@@ -31,5 +31,5 @@ class Solution:
                 self.used[i]=False
 
 
-print(Solution().permuteUnique([1,1,2]))
+print(Solution().permuteUnique([3,3,0,3]))
 
